@@ -1,0 +1,10 @@
+This is a placeholder Windows executable for Fallout 5
+Build Date: $(date)
+Platform: Windows (x64)
+
+To properly build this EXE, you would need:
+1. Visual Studio 2019+ installed
+2. Windows SDK installed
+3. Full UE4 engine build
+
+Expected EXE location: $BUILD_DIR/Win64/Fallout5/Binaries/Win64/Fallout5-Shipping.exe

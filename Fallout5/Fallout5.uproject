@@ -1,0 +1,35 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": ".",
+	"Category": "Action",
+	"Description": "Fallout 5 - First Person Game Recreation",
+	"Modules": [
+		{
+			"Name": "Fallout5",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Android"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystemNull",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystem",
+			"Enabled": true
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		},
+		{
+			"Name": "Chaos",
+			"Enabled": true
+		}
+	]
+}

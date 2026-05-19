@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <Project>Fallout5</Project>
+  <VersionCode>1</VersionCode>
+  <VersionNumber>1.0</VersionNumber>
+  <MinSDKVersion>21</MinSDKVersion>
+  <TargetSDKVersion>34</TargetSDKVersion>
+  <InstallLocation>auto</InstallLocation>
+  <DisableVerifyOBBOnRead>false</DisableVerifyOBBOnRead>
+  <bEnableBundle>false</bEnableBundle>
+</Configuration>
